@@ -8,7 +8,6 @@ for(let i=0;i<arr.length;i++){
         p += "*";
     }
     p += "\n";
-
 }
 
 console.log(p);
